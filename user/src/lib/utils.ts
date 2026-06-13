@@ -10,8 +10,8 @@ export function getPublicImageUrl(src?: string, cacheBust?: number | string) {
   if (src.startsWith('http')) return src;
 
   const base = import.meta.env.DEV
-    ? 'http://localhost:5000'
-    : import.meta.env.VITE_API_URL || 'http://localhost:5000';
+    ? 'https://fine-art-platform.onrender.com'
+    : import.meta.env.VITE_API_URL || 'https://fine-art-platform.onrender.com';
 
   // Normalize path; backend static files are served under /uploads/
   let cleaned = src.replace(/\\/g, '/').replace(/^\/+/, '');
