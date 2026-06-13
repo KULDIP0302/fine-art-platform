@@ -1,5 +1,5 @@
 // ✅ proxy use karega (vite)
-const API_BASE = '';
+const API_BASE = 'https://fine-art-platform.onrender.com';
 
 // 🔐 TOKEN GETTER
 function getToken(): string | null {
