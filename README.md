@@ -51,35 +51,6 @@ PORT=5000
 Run Application
 npm start
 
-For development:
-
-npm run dev
-📂 Project Structure
-fine-art-ecommerce/
-│
-├── client/
-├── server/
-├── screenshots/
-├── public/
-├── src/
-├── package.json
-└── README.md
-🎯 Future Enhancements
-Online Auction System
-AI-Based Artwork Recommendations
-Multi-Vendor Support
-Payment Gateway Integration
-Wishlist Functionality
-Real-Time Notifications
-🤝 Contributing
-
-Contributions are welcome. Feel free to fork the repository, create a feature branch, and submit a pull request.
-
-📄 License
-
-This project is licensed under the MIT License.
-
-Author
 
 Developed with ❤️ for the Fine Art Community.
 
