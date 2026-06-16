@@ -55,3 +55,9 @@ npm start
 Developed with ❤️ for the Fine Art Community.
 
 KULDIP
+<img width="1121" height="640" alt="image" src="https://github.com/user-attachments/assets/65d22805-fb5d-4bbe-8ebf-69cefc956502" />
+<img width="1322" height="599" alt="image" src="https://github.com/user-attachments/assets/b99e3f8d-1390-4097-8beb-8b5c1cc1a20c" />
+<img width="711" height="494" alt="image" src="https://github.com/user-attachments/assets/668d3b21-b43c-4533-a71a-6380d03232dc" />
+
+
+
